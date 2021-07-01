@@ -14,7 +14,7 @@ An application utilizing job searches for developers.
 
 ## Preview
 
-![Jun-28-2021 23-42-58](https://user-images.githubusercontent.com/55529532/123749845-b7664d00-d86a-11eb-80a9-c94d135b9b26.gif)
+![Jun-30-2021 21-43-01](https://user-images.githubusercontent.com/55529532/124065748-3a62e100-d9ec-11eb-9ec7-5d966e3af481.gif)
 
 ### Getting Started
 
