@@ -1,4 +1,4 @@
-# tic-tac-toe
+# Clever-Jobs
 
 An application utilizing job searches for developers.
 
